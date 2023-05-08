@@ -134,41 +134,6 @@
 			</div>
 		</div>
 	</section>
-
-    <!-- Portfolio Grid Section -->
-    <!-- <section id="buy-music" class="bg-light-gray">
-		<div class="container">
-			<div class="row">
-                <div class="col-lg-12 text-center">
-					<h2 class="section-heading animate-box">Albums</h2>
-					<h3 class="section-subheading text-muted animate-box">Support your local rapper on Amazon and iTunes</h3>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12"></div>
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-					<div class="hovereffect">
-						<img class="img-responsive animate-box" src="assets/img/humble-beginnings-cover.jpg" alt="">
-						<div class="overlay">
-						   <h2>Humble Beginnings</h2>
-						   <a class="info" href="https://www.amazon.com/Humble-Beginnings-Explicit-Willie-Humbles/dp/B00HR2DUGA/" target="_blank">Buy on Amazon</a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-					<div class="hovereffect">
-						<img class="img-responsive animate-box" src="assets/img/back-to-business-cover.jpg" alt="">
-						<div class="overlay">
-						   <h2>Back to Business</h2>
-						   <a class="info" href="https://www.amazon.com/Back-Business-Explicit-Willie-Humbles/dp/B0161BHT0U/" target="_blank" >Buy on Amazon</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12"></div>
-               
-		</div>
-    </section> -->
 	
 	<div class="bare-photo"></div>
 
