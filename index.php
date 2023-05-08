@@ -100,7 +100,7 @@
 				<div class="col-lg-12 text-center">
 					<div class="animate-box">
 						<h1 class="section-heading animate-box">Willie Humbles</h1>
-						<h3 class="section-subheading animate-box">I'm not what you think I am</h3>
+						<h3 class="section-subheading animate-box">I'm <span class="outer-linethrough"><span class="inner-linethrough">not</span></span> what you think I am.</h3>
 					</div>
 				</div>
 			</div>
