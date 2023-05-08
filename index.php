@@ -59,7 +59,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top"><img id="brand-logo" src="assets/img/humblesIconGrey100.png"></a>
+                <a class="navbar-brand page-scroll" href="#page-top"><img id="brand-logo" src="assets/img/goldhead.jpg"></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -89,7 +89,7 @@
         <div class="container">
             <div class="intro-text animate-box">
 				<h1 class="section-heading animate-box">Willie Humbles</h1>
-				<h3 class="section-subheading animate-box">Rapper from Milwaukee</h3>
+				<h3 class="section-subheading animate-box">I'm <span class="outer-linethrough"><span class="inner-linethrough">not</span></span> what you think I am.</h3>
             </div>
         </div>
     </header>
@@ -100,7 +100,7 @@
 				<div class="col-lg-12 text-center">
 					<div class="animate-box">
 						<h1 class="section-heading animate-box">Willie Humbles</h1>
-						<h3 class="section-subheading animate-box">Rapper from Milwaukee</h3>
+						<h3 class="section-subheading animate-box">I'm not what you think I am</h3>
 					</div>
 				</div>
 			</div>
@@ -136,7 +136,7 @@
 	</section>
 
     <!-- Portfolio Grid Section -->
-    <section id="buy-music" class="bg-light-gray">
+    <!-- <section id="buy-music" class="bg-light-gray">
 		<div class="container">
 			<div class="row">
                 <div class="col-lg-12 text-center">
@@ -168,7 +168,7 @@
 				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12"></div>
                
 		</div>
-    </section>
+    </section> -->
 	
 	<div class="bare-photo"></div>
 
@@ -176,16 +176,12 @@
     <section id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading animate-box">About Willie</h2>
-                    <h3 class="section-subheading text-muted animate-box">Rapper from Milwaukee</h3>
-                </div>
-            </div>
-            <div class="row">
                 <div class="col-lg-12">
-                    <center><p class="animate-box">I love making music, and creating more art<br>
-My purpose is to inspire and motivate the world through my message<br>
-I do this for you!!</p></center>
+                    <center>
+                    <video controls id="movie">
+                        <source src="assets/img/Tappin_IN_LogoAnimation.MOV" type="video/mp4">
+                    </video>
+                    </center>
 				</div>
             </div>
         </div>
@@ -260,15 +256,6 @@ I do this for you!!</p></center>
                     </div>
                     <div class="footer-col col-md-4">
 					
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-below">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 animate-box">
-                        Copyright &copy; <a href="https://adamallard.net" target="_blank">Adam Allard Dot Net</a> 2021
                     </div>
                 </div>
             </div>
