@@ -220,9 +220,9 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-			Website developed and hosted by <b><a href="https://AirWingWebWorks.com" target="_blank" rel="noopener noreferrer">Air Wing Web Works</a></b>.
                     </div>
                 </div>
+		    <div class="row" style="padding-bottom: 50px">Website developed and hosted by <b><a href="https://AirWingWebWorks.com" target="_blank" rel="noopener noreferrer" style="color: white">Air Wing Web Works</a></b></div>
             </div>
         </div>
     </footer>
